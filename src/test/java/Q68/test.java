@@ -8,7 +8,7 @@ public class test {
             method1();
         }catch (MyException ne)
         {
-            System.out.println("A");
+            System.out.println("Q116");
         }
     }
     public static void method1(){

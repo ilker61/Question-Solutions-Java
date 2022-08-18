@@ -2,7 +2,7 @@ package Q11;
 
 public class Q11 {
     public static void main(String[] args) {
-        String[] strs = {"A", "B"};
+        String[] strs = {"Q116", "B"};
         int idx= 0;
         for (String s : strs){
             strs[idx].concat(" element " + idx);

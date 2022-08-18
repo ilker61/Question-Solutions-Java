@@ -1,7 +1,7 @@
-package Q86;
+package Q116;
 
 public class A {
     public  void test(){
-        System.out.println("Q116 ");
+        System.out.println("A");
     }
 }
