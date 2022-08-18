@@ -1,6 +1,7 @@
 package Q128;
 
 public class MyField {
+
     int x;
     int y;
     public void doStuff(int x, int y){

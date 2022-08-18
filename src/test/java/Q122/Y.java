@@ -1,6 +1,6 @@
 package Q122;
 
-public class Y {
+ class Y {
     public static void main(String[] args) {
         short s1= 200;
         Integer s2=400;
