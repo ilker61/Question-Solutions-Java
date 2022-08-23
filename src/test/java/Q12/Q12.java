@@ -17,6 +17,11 @@ public class Q12 {
     public static void main(String[] args) {
         doSum(10,20);
         doSum(10.0, 20.0);
+
+        /*
+        int Sum is 30
+        double Sum is 30.0
+         */
     }
 
 

@@ -1,6 +1,6 @@
 package Q15;
 
-public class Question {
+public class  Question {
     public static void main(String[] args) {
         StringBuilder sb1=new StringBuilder("Duke");
         String str1=sb1.toString();
