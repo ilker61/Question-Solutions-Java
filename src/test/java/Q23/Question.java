@@ -14,6 +14,6 @@ public class Question {
                 color=1;
                 break;
         }
-     //   System.out.println(color);
+     // System.out.println(color);
     }
 }

@@ -11,6 +11,7 @@ public class FieldInit {
     }
 
     public static void main(String[] args) {
+
         FieldInit f =new FieldInit();
         f.printAll();
 

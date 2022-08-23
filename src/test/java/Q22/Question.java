@@ -1,6 +1,7 @@
 package Q22;
 
 public class Question {
+
     public static void main(String[] args) {
         int ans;
         try {

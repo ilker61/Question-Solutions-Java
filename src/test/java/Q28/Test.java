@@ -14,6 +14,7 @@ public class Test {
             return s.length()<=2;
         })){
             System.out.println(" removed");
+
         }
     }
 }
