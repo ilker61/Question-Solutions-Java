@@ -8,8 +8,13 @@ public class Shop {
         List<Product> st = new ArrayList<>();
         st.add(new Product(10, "IceCream"));
         st.add(new Product(11, "Chokolade"));
+
+
         Product p1= new Product(10, "IceCream");
+
+
         System.out.println(st.indexOf(p1));
+        // p1 i st nin icinde bulamaz, cunku p1 tamamen baska bir obje
 
     }
 }
