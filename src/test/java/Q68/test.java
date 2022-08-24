@@ -8,12 +8,12 @@ public class test {
             method1();
         }catch (MyException ne)
         {
-            System.out.println("Q116");
+            System.out.println("A");
         }
     }
     public static void method1(){
         try {
-            throw 3>10 ? new MyException() : new IOException();
+            throw 3>10 ? new MyException() : new Exception();
         }catch (IOException ie){
             System.out.println("I");
         }catch (Exception re){
