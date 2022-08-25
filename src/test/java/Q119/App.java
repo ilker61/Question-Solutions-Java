@@ -1,10 +1,13 @@
 package Q119;
 
 public class App {
+
     String greet="Welcome";
+
     public App(){
         String greet="Hello";
     }
+
     public void setGreet(){
         String greet="Good Day";
     }
