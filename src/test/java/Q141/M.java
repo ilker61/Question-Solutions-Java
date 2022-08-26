@@ -16,13 +16,5 @@ public class M {
             System.out.println("Invalid Name");
         }
 
-String s1="Moon";
-        if(s1=="Moon"){
-            System.out.println("Esit");
-        }else {
-            System.out.println("degil");
-        }
-
-
     }
 }
