@@ -2,6 +2,7 @@ package Q8;
 
 public class Arrr {
 
+
     public static void main(String[] args) {
         String [][]arr= {{"A", "B","C"}, {"D","E"}};
         for (int i = 0; i < arr.length; i++) {
@@ -14,5 +15,7 @@ public class Arrr {
             continue;
         }
     }
+
+
 
 }
