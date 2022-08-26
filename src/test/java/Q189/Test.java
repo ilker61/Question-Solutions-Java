@@ -13,11 +13,14 @@ public class Test {
 
         System.out.println(t1);
 
-        /*
+
         Test t2=new Test();
         t2.stVar=300;
         System.out.println(t2);
 
-         */
+         /*
+         100:300
+        300:200
+          */
     }
 }
