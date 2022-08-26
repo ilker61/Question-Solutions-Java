@@ -5,7 +5,7 @@ public class Tern {
         String stuff="TV";
         String res=null;
 
-        res=stuff.equals("TV")?"Walter":stuff.equals("Movie")?"White":"No Result";
-
+        res=              stuff.equals("TV")?"Walter":stuff.equals("Movie")?"White":"No Result";
+        System.out.println(res);
     }
 }
