@@ -8,8 +8,8 @@ public class Test {
         for (int e:data
              ) {
             if (e!=key){
-                continue;
-                // count++; ===>  unreachebel code oldugundan hata verir
+                //continue;
+                count++;  // ===>  unreachebel code oldugundan hata verir
             }
         }
         System.out.println(count + " Found");
