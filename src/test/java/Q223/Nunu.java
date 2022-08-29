@@ -5,7 +5,7 @@ public class Nunu {
         int [] arr={1,2,3,4};
         int i=0;
         do {
-            System.out.println(arr[i] + " ");
+            System.out.print(arr[i] + " ");
             i++;
         }while (i< arr.length+1);
     }
