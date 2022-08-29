@@ -13,7 +13,7 @@ public class test {
     }
     public static void method1(){
         try {
-            throw 3>10 ? new MyException() : new Exception();
+            throw 3>10 ? new MyException() : new IOException();
         }catch (IOException ie){
             System.out.println("I");
         }catch (Exception re){
