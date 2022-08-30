@@ -11,5 +11,8 @@ public class Mnmn {
         }
 
          */
+       // Integer x=new Integer("1");
+        // System.out.println(x+1);
+
     }
 }

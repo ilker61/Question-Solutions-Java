@@ -1,4 +1,4 @@
-package Q101;
+package Q102;
 
 public class V {
     public static void main(String[] args) {
