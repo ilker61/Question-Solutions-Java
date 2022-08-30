@@ -20,5 +20,6 @@ public class MyField {
         m2.doStuff(m1.x, m1.y);
         m1.display();
         m2.display();
+
     }
 }
