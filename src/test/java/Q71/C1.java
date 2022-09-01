@@ -18,7 +18,8 @@ public class C1 extends C2 implements I{
         s.displayC2();
     }
 }
-//################### NOT: Bir classin iki parenti olmaz. c1 c2 ye extend olmus ayni zamanda I ya implement. Bu olmaz bro
+//################### NOT: 14. satirda I ile C2  eslesmesinde hata var
+//                          15. satirda da hata var.
 
  */
 
