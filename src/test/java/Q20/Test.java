@@ -18,6 +18,6 @@ public class Test {
         doProduct(i);
         doString(sb);
         doProduct(item.a1);
-        System.out.println(i + " " + sb + " " + item.a1);
+        System.out.println(i + " " + sb + " " + item.a1);  // 10 Hello 11
     }
 }

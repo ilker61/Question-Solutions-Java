@@ -4,6 +4,7 @@ public class Question {
 
     public static void main(String[] args) {
         int ans;
+
         try {
             int num=10;
             int div=0;
@@ -13,6 +14,7 @@ public class Question {
         }catch (Exception e){
             System.out.println("Invalid calculation");
         }
-        // System.out.println("Answer = " + ans);
+        //System.out.println("Answer = " + ans);
+
     }
 }

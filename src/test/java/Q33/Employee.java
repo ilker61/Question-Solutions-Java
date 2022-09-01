@@ -13,6 +13,9 @@ public class Employee {
 
     public static void main(String[] args) {
         Employee e= new Employee();
+        e.name="Joe";
+        e.contract=true;
+        e.salary=100;
 
         // line 2
 
